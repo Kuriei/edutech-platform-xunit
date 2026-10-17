@@ -4,7 +4,6 @@
 ## Visão geral
 
 A EduTechPlatform é uma aplicação desenvolvida em C# com .NET 10, voltada à implementação e validação de regras de negócio acadêmicas e financeiras.
-
 O projeto utiliza testes unitários com xUnit para verificar o funcionamento dos serviços e garantir a qualidade do software.
 
 ## Tecnologias utilizadas
