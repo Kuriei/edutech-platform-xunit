@@ -426,3 +426,8 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Arquivos temporarios do NuGet
+*.csproj.nuget.*
+project.assets.json
+project.nuget.cache
